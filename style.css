@@ -1,0 +1,29 @@
+   
+   body{
+       position: relative;
+       display: flex;
+      
+   }
+   
+   
+   .line{
+        width: 112px;
+        
+        border-bottom: 1px solid black;
+        position: absolute;
+
+        
+        }
+.add-item{
+    margin-top: 5px;
+}
+.form-check{
+    margin-top: 5px;
+    
+}
+
+.tanzim button{
+    position: relative;
+    margin-left: 6px;
+    
+}
